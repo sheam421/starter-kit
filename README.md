@@ -1,6 +1,6 @@
 # Alien vs. Zombie
 
-This is Alien VS Zombie where the alien and zomnie will be in a Game Board. Alien and Zombie both have life and attack. They can attack each other and decrese their life.
+This is Alien VS Zombie game where the alien and zomnie will be in a Game Board. Alien and Zombie both have life and attack. They can attack each other and decrese their life.
 
 
 YouTube link : [Video Demo](https://youtu.be/QMe_M73ZAZg).
