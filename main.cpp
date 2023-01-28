@@ -1,7 +1,7 @@
 // *********************************************************
 // Course: TCP1101 PROGRAMMING FUNDAMENTALS
 // Year: Trimester 1, 2022/23 (T2215)
-// Lab: TxxL
+// Lab: TT1L
 // Names: MD RAKIBUL HASSAN SHEAM | VISHNU KARMEGAM | MEMBER_NAME_3
 // IDs: 1211306276 | 1211103388 | MEMBER_ID_3
 // Emails: 1211306276@student.mmu.edu.my | 1211103388@student.mmu.edu.my | MEMBER_EMAIL_3
