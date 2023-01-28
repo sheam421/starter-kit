@@ -12,7 +12,7 @@ g++ main.cpp
 
 ## User Manual
 
-  After running the program, there will be a dafult game setting for the Game Board. If someone wants to change the setting, They need to press 'y' or 'Y'. If They want to play dafult game setting, they need to press 'n' or 'N'. In command, "help" will show how the alien will move.
+  After running the program, there will be a default game setting for the Game Board. If someone wants to change the settings, They need to press 'y' or 'Y'. If They want to play default game settings, they need to press 'n' or 'N'. In command, "help" will show how the alien will move.
 
 Please DO NOT change the Progress Log below. Leave it as it is.
 
